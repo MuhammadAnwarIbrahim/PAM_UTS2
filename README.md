@@ -15,10 +15,8 @@ Indonesian National Heroes Identifier
 
 ## Daftar package yang digunakan (expo)
 
-•React
-•React-native
+•React dan React-native
 
-4.
 
 ## Cara menginstall aplikasi (dalam mode pengembangan)
 
