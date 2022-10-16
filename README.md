@@ -20,7 +20,8 @@ Indonesian National Heroes Identifier
 
 ## Cara menginstall aplikasi (dalam mode pengembangan)
 
-silakan unduh semua file dalam repository ini kemudian jalankan dengan command NPM Start, kemudian develope aplikasi menggunakan code editor, untuk menggunakan aplikasi saja silakan download pada link berikut
+silakan unduh semua file dalam repository ini kemudian jalankan dengan command pada folder pam_uts dengan command npm Start, kemudian develope aplikasi menggunakan code editor, untuk menggunakan aplikasi saja silakan download file bernama  pam_uts-41e774904d5c4bbd91a26b55b7abce0f-signed.apk
+untuk video demo silakan buka link berikut : https://s.id/DemoAppIndonesiaNationalHeroes
 
 ## Referensi
 
